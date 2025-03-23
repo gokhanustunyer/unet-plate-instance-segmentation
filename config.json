@@ -1,0 +1,10 @@
+{
+    "SAMPLES_PER_BATCH": 8,
+    "TRAINING_ROUNDS": 15,
+    "LEARNING_SPEED": 1e-4,
+    "BASE_MODEL": "resnet50",
+    "TRANSFER_LEARNING": "imagenet",
+    "SEGMENT_CLASSES": 3,
+    "DETECTION_THRESHOLD": 0.4,
+    "ROOT_DIR": "./"
+}
